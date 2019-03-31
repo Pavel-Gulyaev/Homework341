@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="language">
+        <item>@string/russian</item>
+        <item>@string/english</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>@string/black</item>
+        <item>@string/blue</item>
+        <item>@string/green</item>
+    </string-array>
+
+</resources>
